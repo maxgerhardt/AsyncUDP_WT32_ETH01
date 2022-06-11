@@ -22,6 +22,7 @@
 #ifndef ASYNC_UDP_WT32_ETH01_IMPL_H
 #define ASYNC_UDP_WT32_ETH01_IMPL_H
 
+#include "AsyncUDP_WT32_ETH01.h"
 extern "C"
 {
   #include "lwip/opt.h"

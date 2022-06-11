@@ -220,6 +220,6 @@ class AsyncUDP : public Print
 ////////////////////////////////////////////////
 
 #include "AsyncUDP_WT32_ETH01_Debug.h"
-#include "AsyncUDP_WT32_ETH01_Impl.h"
+//#include "AsyncUDP_WT32_ETH01_Impl.h"
 
 #endif    //ASYNC_UDP_WT32_ETH01_H
