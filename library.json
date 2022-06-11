@@ -32,9 +32,8 @@
   "dependencies": 
   [
     {
-      "owner": "khoih-prog",
       "name": "WebServer_WT32_ETH01",
-      "version": "^1.4.1",
+      "version": "https://github.com/maxgerhardt/WebServer_WT32_ETH01",
       "platforms": "espressif32"
     }
   ],
